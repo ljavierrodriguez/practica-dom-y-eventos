@@ -1,0 +1,30 @@
+.colores {
+    width: 180px;
+    height: auto;
+    display: flex;
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+.colores .color {
+    width: 40px;
+    height: 40px;
+    margin: 2.5px;
+    cursor: pointer;
+}
+
+.green {
+    background-color: green;
+}
+
+.blueviolet {
+    background-color: blueviolet;
+}
+
+.cadetblue {
+    background-color: cadetblue;
+}
+
+.brown {
+    background-color: brown;
+}
